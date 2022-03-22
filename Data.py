@@ -15,7 +15,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-By @StarkBots
+By @anu_music00bot
     """
 
     # Home Button
@@ -55,7 +55,7 @@ By @StarkBots
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to generate pyrogram and telethon string session by @StarkBots
+A telegram bot to generate pyrogram and telethon string session by @anu_music00bot
 
 Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
 
